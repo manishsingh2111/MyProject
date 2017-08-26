@@ -13,7 +13,7 @@ namespace Oops_concepts1
             MobilePhone samsung = new MobilePhone();
             samsung.IMEI = "123fghyuio7890";
             samsung.NoOfSimCards = 2;
-            samsung.Color = "Black";
+            samsung.Color = "Orange";
 
 
         }
